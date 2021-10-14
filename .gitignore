@@ -9,7 +9,7 @@ profile/node_modules
 /coverage
 
 # production
-/build
+profile/build
 
 # misc
 .DS_Store
